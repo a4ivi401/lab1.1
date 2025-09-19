@@ -19,10 +19,4 @@ int main() {
     var5 = 71.8;
     long var6 = -57;
 
-    // unsigned short
-
-    const unsigned short CONST6 = 135;
-    unsigned short var7;
-    var7 = 351362;
-    unsigned short var8 = -34;
 }
